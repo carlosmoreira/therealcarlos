@@ -1,10 +1,395 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4957c98-95dc-447b-9b34-abd874a9ef41" name="Default" comment="" />
+    <list default="true" id="a26147e3-200b-4179-8476-ba1daa6b8b1e" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\therealcarlos.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\ui-bootstrap-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\ui-bootstrap-tpls.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\ui-bootstrap-tpls.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\ui-bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\ui-bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\angular-scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\angular-scroll.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\angular-scroll.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\example\container.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\example\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\example\toc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-scroll\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular\angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular\angular.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular\angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular\angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular\angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\angular-route.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\angular.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angularjs\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\css\bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\css\bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\dist\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\grunt\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\grunt\bs-commonjs-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\grunt\bs-raw-files-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\grunt\configBridge.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\grunt\sauce_browsers.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\affix.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\alert.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\button.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\popover.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\js\transition.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\.csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\.csslintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\badges.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\close.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\code.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\media.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\grid-framework.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\image.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\nav-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\progress-bar.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\reset-text.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\resize.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\size.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\table-row.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\mixins\vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\modals.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\navs.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\pager.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\print.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\tables.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\theme.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\type.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\less\wells.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\nuget\MyGet.ps1" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\nuget\bootstrap.less.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\nuget\bootstrap.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\package.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\bootstrap\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\css\ionicons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\css\owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\css\owl.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\css\popup.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\fonts\fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\fonts\ionicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\fonts\ionicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\fonts\ionicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\fonts\ionicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\about.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\about_us_featured.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\close_sm.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\contact.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\contact_featured.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\image_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\image_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\image_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\image_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\image_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\image_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\image_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\image_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\image_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\image_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\thumbs\image_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\thumbs\image_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\thumbs\image_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\thumbs\image_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\thumbs\image_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\thumbs\image_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\thumbs\image_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\thumbs\image_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\thumbs\image_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio\thumbs\image_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\portfolio_featured.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\service.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\service_featured.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\sponsor1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\sponsor2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\sponsor3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\sponsor4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\sponsor5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\sponsor6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\team_member1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\team_member2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\img\team_member3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\AUTHORS.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\dist\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\dist\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\dist\jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\dist\jquery.slim.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\dist\jquery.slim.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\dist\jquery.slim.min.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\sizzle\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\sizzle\dist\sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\sizzle\dist\sizzle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\sizzle\dist\sizzle.min.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\ajax\jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\ajax\load.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\ajax\parseJSON.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\ajax\parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\ajax\script.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\ajax\var\location.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\ajax\var\nonce.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\ajax\var\rquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\ajax\xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\attributes\attr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\attributes\classes.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\attributes\prop.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\attributes\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\attributes\val.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\core\DOMEval.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\core\access.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\core\init.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\core\parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\core\ready.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\core\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\core\var\rsingleTag.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\adjustCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\defaultDisplay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\showHide.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\var\cssExpand.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\var\getStyles.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\var\isHidden.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\var\rmargin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\var\rnumnonpx.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\css\var\swap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\data.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\data\Data.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\data\accepts.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\data\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\data\var\acceptData.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\data\var\dataPriv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\data\var\dataUser.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\deferred\exceptionHook.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\effects.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\effects\Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\effects\animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\effects\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\event.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\event\ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\event\alias.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\event\focusin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\event\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\event\trigger.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\exports\amd.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\exports\global.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\intro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\buildFragment.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\createSafeFragment.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\getAll.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\setGlobalEval.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\var\nodeNames.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\var\rcheckableType.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\var\rleadingWhitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\var\rscriptType.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\var\rtagName.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\manipulation\wrapMap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\offset.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\outro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\queue.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\queue\delay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\selector.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\traversing\findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\traversing\var\dir.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\traversing\var\rneedsContext.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\traversing\var\siblings.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\arr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\class2type.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\concat.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\deletedIds.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\document.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\documentElement.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\hasOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\pnum.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\push.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\rcssNum.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\rnotwhite.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\slice.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\support.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\var\toString.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\jquery\src\wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\js\contact.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\js\jquery-2.1.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\js\jquery.easing.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\js\jquery.mixitup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\js\jquery.popup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\js\modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\js\owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\js\script.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\ng-route\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\ng-route\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\ng-route\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\ng-route\demo\demo.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\ng-route\demo\demo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\ng-route\src\ngTour.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\ng-route\src\ngTour.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\js\app.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\php\contact-form.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\views\about-me.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\views\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\views\home.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\views\portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\views\services.html" afterPath="" />
+    </list>
     <ignored path="therealcarlos.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,92 +410,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".bowerrc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
-              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.95" vertical-offset="988" max-vertical-offset="1649">
-              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-              <folding>
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1972">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/services.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3978">
-              <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/portfolio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="7038">
-              <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35326087" vertical-offset="244" max-vertical-offset="1343">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="3842">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="201" max-vertical-offset="731">
-              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.056384742" vertical-offset="0" max-vertical-offset="603">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -118,18 +422,13 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.bowerrc" />
-        <option value="$PROJECT_DIR$/views/about-me.html" />
-        <option value="$PROJECT_DIR$/views/portfolio.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/app.js" />
-        <option value="$PROJECT_DIR$/assets/js/script.js" />
-        <option value="$PROJECT_DIR$/views/services.html" />
-        <option value="$PROJECT_DIR$/views/contact.html" />
-        <option value="$PROJECT_DIR$/views/home.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/styles.css" />
       </list>
     </option>
   </component>
@@ -194,7 +493,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="wp-content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,7 +507,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -222,7 +525,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="therealcarlos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -233,50 +544,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/therealcarlos/index.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-    </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
+  <component name="RunManager">
+    <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c4957c98-95dc-447b-9b34-abd874a9ef41" name="Default" comment="" />
-      <created>1459909970186</created>
+      <changelist id="a26147e3-200b-4179-8476-ba1daa6b8b1e" name="Default" comment="" />
+      <created>1459989651514</created>
       <option name="number" value="Default" />
-      <updated>1459909970186</updated>
+      <updated>1459989651514</updated>
     </task>
     <servers />
   </component>
@@ -285,24 +563,24 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32861635" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -326,88 +604,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.bowerrc">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.056384742" vertical-offset="0" max-vertical-offset="603">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/about-me.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2754">
-          <caret line="0" column="63" selection-start-line="0" selection-start-column="63" selection-end-line="0" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7038">
-          <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="201" max-vertical-offset="731">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="3842">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3978">
-          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1972">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.95" vertical-offset="988" max-vertical-offset="1649">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35326087" vertical-offset="244" max-vertical-offset="1343">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
