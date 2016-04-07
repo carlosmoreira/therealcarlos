@@ -22,7 +22,7 @@
 
     <div class="menu">
         <div class="profile-btn">
-            <img alt="" src="assets/img/about.jpg" style="width:100%; height:100%;">
+            <img alt=""  src="{{BaseUrl}}/assets/img/about.jpg" style="width:100%; height:100%;">
             <div class="mask">
             </div>
             <div class="heading">
@@ -34,7 +34,7 @@
         <!-- Single Navigation Menu Button -->
 
         <div class="portfolio-btn">
-            <img alt="" src="assets/img/portfolio.jpg">
+            <img alt="" src="{{BaseUrl}}/assets/img/portfolio.jpg">
             <div class="mask">
             </div>
             <div class="heading">
@@ -46,7 +46,7 @@
         <!-- Single Navigation Menu Button [ END ]  -->
 
         <div class="service-btn">
-            <img alt="" src="assets/img/service.jpg">
+            <img alt="" src="{{BaseUrl}}/assets/img/service.jpg">
             <div class="mask">
             </div>
             <div class="heading">
@@ -58,7 +58,7 @@
         <!-- Single Navigation Menu Button [ END ]  -->
 
         <div class="contact-btn">
-            <img alt="" src="assets/img/contact.jpg">
+            <img alt="" src="{{BaseUrl}}/assets/img/contact.jpg">
             <div class="mask">
             </div>
             <div class="heading">

@@ -1,34 +1,41 @@
 var app = angular.module('therealcarlos', ['ngRoute']);
 
-app.controller('pagesCtrl', function($scope){
+app.run(function($rootScope, $templateCache) {
+    $rootScope.$on('$viewContentLoaded', function() {
+        $templateCache.removeAll();
+    });
+});
+
+app.controller('pagesCtrl', function($scope, BaseUrl){
+    $scope.BaseUrl = BaseUrl;
     console.log('page loaded');
 });
 
-app.config(function ($routeProvider) {
+app.config(function ($routeProvider , BaseUrl) {
 
     $routeProvider
         .when('/', {
-            templateUrl: 'views/home.html',
+            templateUrl: BaseUrl + '/views/home.php',
             controller: 'pagesCtrl',
             controllerAs: 'page'
         })
         .when('/about-me', {
-            templateUrl: 'views/about-me.html',
+            templateUrl: BaseUrl +  '/views/about-me.html',
             controller: 'pagesCtrl',
             controllerAs: 'page'
         })
         .when('/portfolio', {
-            templateUrl: 'views/portfolio.html',
+            templateUrl: BaseUrl +  '/views/portfolio.html',
             controller: 'pagesCtrl',
             controllerAs: 'page'
         })
         .when('/services', {
-            templateUrl: 'views/services.html',
+            templateUrl: BaseUrl +  '/views/services.html',
             controller: 'pagesCtrl',
             controllerAs: 'page'
         })
         .when('/contact', {
-            templateUrl: 'views/contact.html',
+            templateUrl: BaseUrl +  '/views/contact.html',
             controller: 'pagesCtrl',
             controllerAs: 'page'
         })

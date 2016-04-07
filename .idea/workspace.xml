@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a26147e3-200b-4179-8476-ba1daa6b8b1e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/style.css" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\therealcarlos.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\.idea\workspace.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\README.md" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\.bower.json" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\angular-bootstrap\.gitignore" afterPath="" />
@@ -379,6 +372,8 @@
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\ng-route\demo\demo.js" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\ng-route\src\ngTour.css" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\assets\ng-route\src\ngTour.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\frontend\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\frontend\php\contact-form.php" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\index.html" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\js\app.js" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\php\contact-form.php" afterPath="" />
@@ -387,9 +382,388 @@
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\views\home.html" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\views\portfolio.html" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\views\services.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\therealcarlos\wp-content\themes\therealcarlos\styles.css" afterPath="" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\.bowerrc" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/.bowerrc" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\.bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/.bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\.gitignore" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/.gitignore" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\.npmignore" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/.npmignore" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\README.md" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/README.md" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\index.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/index.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\package.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/package.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\ui-bootstrap-csp.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/ui-bootstrap-csp.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\ui-bootstrap-tpls.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/ui-bootstrap-tpls.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\ui-bootstrap-tpls.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/ui-bootstrap-tpls.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\ui-bootstrap.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/ui-bootstrap.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-bootstrap\ui-bootstrap.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-bootstrap/ui-bootstrap.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\.bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/.bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\CONTRIBUTING.md" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/CONTRIBUTING.md" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\LICENSE" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/LICENSE" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\README.md" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/README.md" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\angular-scroll.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/angular-scroll.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\angular-scroll.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/angular-scroll.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\angular-scroll.min.js.map" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/angular-scroll.min.js.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\example\container.html" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/example/container.html" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\example\index.html" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/example/index.html" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\example\toc.html" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/example/toc.html" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\gulpfile.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/gulpfile.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular-scroll\index.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular-scroll/index.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular\.bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular/.bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular\README.md" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular/README.md" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular\angular-csp.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular/angular-csp.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular\angular.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular/angular.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular\angular.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular/angular.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular\angular.min.js.gzip" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular/angular.min.js.gzip" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular\angular.min.js.map" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular/angular.min.js.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular\bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular/bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular\index.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular/index.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angular\package.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angular/package.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\.bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/.bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\README.md" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/README.md" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\angular-csp.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/angular-csp.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\angular-route.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/angular-route.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\angular.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/angular.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\angular.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/angular.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\angular.min.js.gzip" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/angular.min.js.gzip" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\angular.min.js.map" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/angular.min.js.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\index.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/index.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\angularjs\package.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/angularjs/package.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\.bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/.bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\CHANGELOG.md" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/CHANGELOG.md" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\Gruntfile.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/Gruntfile.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\LICENSE" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/LICENSE" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\README.md" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/README.md" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\css\bootstrap-theme.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\css\bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\css\bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\css\bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/css/bootstrap-theme.min.css.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\css\bootstrap.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/css/bootstrap.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\css\bootstrap.css.map" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\css\bootstrap.min.css.map" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\js\bootstrap.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/js/bootstrap.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\dist\js\npm.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/dist/js/npm.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\grunt\.jshintrc" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/grunt/.jshintrc" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\grunt\bs-commonjs-generator.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/grunt/bs-commonjs-generator.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/grunt/bs-glyphicons-data-generator.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/grunt/bs-lessdoc-parser.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\grunt\bs-raw-files-generator.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/grunt/bs-raw-files-generator.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\grunt\configBridge.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/grunt/configBridge.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\grunt\sauce_browsers.yml" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/grunt/sauce_browsers.yml" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\.jscsrc" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/.jscsrc" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\.jshintrc" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/.jshintrc" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\affix.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/affix.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\alert.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/alert.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\button.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/button.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\carousel.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/carousel.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\collapse.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/collapse.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\dropdown.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/dropdown.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\modal.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/modal.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\popover.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/popover.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\scrollspy.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/scrollspy.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\tab.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/tab.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\tooltip.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/tooltip.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\js\transition.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/js/transition.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\.csscomb.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/.csscomb.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\.csslintrc" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/.csslintrc" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\alerts.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/alerts.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\badges.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/badges.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\bootstrap.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/bootstrap.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\breadcrumbs.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/breadcrumbs.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\button-groups.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/button-groups.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\buttons.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/buttons.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\carousel.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/carousel.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\close.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/close.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\code.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/code.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\component-animations.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/component-animations.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\dropdowns.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/dropdowns.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\forms.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/forms.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\glyphicons.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/glyphicons.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\grid.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/grid.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\input-groups.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/input-groups.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\jumbotron.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/jumbotron.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\labels.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/labels.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\list-group.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/list-group.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\media.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/media.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\alerts.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/alerts.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\background-variant.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/background-variant.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\border-radius.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/border-radius.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\buttons.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/buttons.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\center-block.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/center-block.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\clearfix.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/clearfix.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\forms.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/forms.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\gradients.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/gradients.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\grid-framework.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/grid-framework.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\grid.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/grid.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\hide-text.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/hide-text.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\image.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/image.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\labels.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/labels.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\list-group.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/list-group.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\nav-divider.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/nav-divider.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\nav-vertical-align.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/nav-vertical-align.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\opacity.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/opacity.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\pagination.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/pagination.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\panels.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/panels.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\progress-bar.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/progress-bar.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\reset-filter.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/reset-filter.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\reset-text.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/reset-text.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\resize.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/resize.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\responsive-visibility.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/responsive-visibility.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\size.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/size.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\tab-focus.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/tab-focus.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\table-row.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/table-row.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\text-emphasis.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/text-emphasis.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\text-overflow.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/text-overflow.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\mixins\vendor-prefixes.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/mixins/vendor-prefixes.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\modals.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/modals.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\navbar.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/navbar.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\navs.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/navs.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\normalize.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/normalize.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\pager.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/pager.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\pagination.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/pagination.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\panels.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/panels.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\popovers.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/popovers.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\print.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/print.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\progress-bars.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/progress-bars.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\responsive-embed.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/responsive-embed.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\responsive-utilities.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/responsive-utilities.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\scaffolding.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/scaffolding.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\tables.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/tables.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\theme.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/theme.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\thumbnails.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/thumbnails.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\tooltip.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/tooltip.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\type.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/type.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\utilities.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/utilities.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\variables.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/variables.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\less\wells.less" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/less/wells.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\nuget\MyGet.ps1" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/nuget/MyGet.ps1" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\nuget\bootstrap.less.nuspec" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/nuget/bootstrap.less.nuspec" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\nuget\bootstrap.nuspec" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/nuget/bootstrap.nuspec" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\package.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/package.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\bootstrap\package.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/bootstrap/package.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\css\ionicons.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/css/ionicons.min.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\css\owl.carousel.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/css/owl.carousel.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\css\owl.theme.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/css/owl.theme.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\css\popup.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/css/popup.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\css\style.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/css/style.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\fonts\fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\fonts\ionicons.eot" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/fonts/ionicons.eot" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\fonts\ionicons.svg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/fonts/ionicons.svg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\fonts\ionicons.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/fonts/ionicons.ttf" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\fonts\ionicons.woff" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/fonts/ionicons.woff" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\about.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/about.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\about_us_featured.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/about_us_featured.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\close.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/close.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\close_sm.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/close_sm.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\contact.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/contact.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\contact_featured.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/contact_featured.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\image_1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/image_1.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\image_10.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/image_10.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\image_2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/image_2.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\image_3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/image_3.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\image_4.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/image_4.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\image_5.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/image_5.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\image_6.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/image_6.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\image_7.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/image_7.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\image_8.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/image_8.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\image_9.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/image_9.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\thumbs\image_1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/thumbs/image_1.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\thumbs\image_10.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/thumbs/image_10.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\thumbs\image_2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/thumbs/image_2.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\thumbs\image_3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/thumbs/image_3.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\thumbs\image_4.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/thumbs/image_4.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\thumbs\image_5.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/thumbs/image_5.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\thumbs\image_6.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/thumbs/image_6.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\thumbs\image_7.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/thumbs/image_7.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\thumbs\image_8.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/thumbs/image_8.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio\thumbs\image_9.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio/thumbs/image_9.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\portfolio_featured.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/portfolio_featured.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\service.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/service.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\service_featured.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/service_featured.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\sponsor1.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/sponsor1.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\sponsor2.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/sponsor2.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\sponsor3.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/sponsor3.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\sponsor4.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/sponsor4.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\sponsor5.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/sponsor5.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\sponsor6.png" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/sponsor6.png" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\team_member1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/team_member1.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\team_member2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/team_member2.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\img\team_member3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/img/team_member3.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\.bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/.bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\AUTHORS.txt" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/AUTHORS.txt" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\LICENSE.txt" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/LICENSE.txt" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\README.md" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/README.md" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\dist\jquery.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/dist/jquery.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\dist\jquery.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/dist/jquery.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\dist\jquery.min.map" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/dist/jquery.min.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\dist\jquery.slim.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/dist/jquery.slim.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\dist\jquery.slim.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/dist/jquery.slim.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\dist\jquery.slim.min.map" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/dist/jquery.slim.min.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\sizzle\LICENSE.txt" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/sizzle/LICENSE.txt" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\sizzle\dist\sizzle.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/sizzle/dist/sizzle.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\sizzle\dist\sizzle.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/sizzle/dist/sizzle.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\sizzle\dist\sizzle.min.map" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/sizzle/dist/sizzle.min.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\.jshintrc" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/.jshintrc" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\ajax.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/ajax.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\ajax\jsonp.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/ajax/jsonp.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\ajax\load.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/ajax/load.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\ajax\parseJSON.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/ajax/parseJSON.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\ajax\parseXML.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/ajax/parseXML.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\ajax\script.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/ajax/script.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\ajax\var\location.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/ajax/var/location.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\ajax\var\nonce.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/ajax/var/nonce.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\ajax\var\rquery.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/ajax/var/rquery.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\ajax\xhr.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/ajax/xhr.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\attributes.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/attributes.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\attributes\attr.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/attributes/attr.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\attributes\classes.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/attributes/classes.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\attributes\prop.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/attributes/prop.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\attributes\support.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/attributes/support.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\attributes\val.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/attributes/val.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\callbacks.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/callbacks.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\core.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/core.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\core\DOMEval.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/core/DOMEval.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\core\access.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/core/access.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\core\init.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/core/init.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\core\parseHTML.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/core/parseHTML.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\core\ready.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/core/ready.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\core\support.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/core/support.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\core\var\rsingleTag.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/core/var/rsingleTag.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\addGetHookIf.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/addGetHookIf.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\adjustCSS.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/adjustCSS.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\curCSS.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/curCSS.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\defaultDisplay.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/defaultDisplay.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\hiddenVisibleSelectors.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\showHide.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/showHide.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\support.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/support.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\var\cssExpand.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/var/cssExpand.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\var\getStyles.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/var/getStyles.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\var\isHidden.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/var/isHidden.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\var\rmargin.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/var/rmargin.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\var\rnumnonpx.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/var/rnumnonpx.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\css\var\swap.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/css/var/swap.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\data.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/data.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\data\Data.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/data/Data.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\data\accepts.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/data/accepts.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\data\support.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/data/support.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\data\var\acceptData.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/data/var/acceptData.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\data\var\dataPriv.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/data/var/dataPriv.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\data\var\dataUser.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/data/var/dataUser.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\deferred.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/deferred.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\deferred\exceptionHook.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/deferred/exceptionHook.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\deprecated.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/deprecated.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\dimensions.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/dimensions.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\effects.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/effects.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\effects\Tween.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/effects/Tween.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\effects\animatedSelector.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/effects/animatedSelector.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\effects\support.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/effects/support.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\event.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/event.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\event\ajax.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/event/ajax.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\event\alias.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/event/alias.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\event\focusin.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/event/focusin.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\event\support.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/event/support.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\event\trigger.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/event/trigger.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\exports\amd.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/exports/amd.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\exports\global.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/exports/global.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\intro.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/intro.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\jquery.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/jquery.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\_evalUrl.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/_evalUrl.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\buildFragment.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/buildFragment.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\createSafeFragment.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/createSafeFragment.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\getAll.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/getAll.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\setGlobalEval.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/setGlobalEval.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\support.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/support.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\var\nodeNames.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/var/nodeNames.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\var\rcheckableType.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\var\rleadingWhitespace.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/var/rleadingWhitespace.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\var\rscriptType.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/var/rscriptType.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\var\rtagName.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/var/rtagName.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\manipulation\wrapMap.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/manipulation/wrapMap.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\offset.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/offset.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\outro.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/outro.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\queue.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/queue.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\queue\delay.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/queue/delay.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\selector-native.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/selector-native.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\selector-sizzle.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/selector-sizzle.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\selector.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/selector.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\serialize.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/serialize.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\support.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/support.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\traversing.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/traversing.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\traversing\findFilter.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/traversing/findFilter.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\traversing\var\dir.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/traversing/var/dir.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\traversing\var\rneedsContext.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\traversing\var\siblings.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/traversing/var/siblings.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\arr.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/arr.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\class2type.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/class2type.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\concat.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/concat.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\deletedIds.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/deletedIds.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\document.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/document.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\documentElement.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/documentElement.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\hasOwn.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/hasOwn.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\indexOf.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/indexOf.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\pnum.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/pnum.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\push.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/push.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\rcssNum.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/rcssNum.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\rnotwhite.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/rnotwhite.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\slice.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/slice.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\support.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/support.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\var\toString.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/var/toString.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\jquery\src\wrap.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/jquery/src/wrap.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\js\contact.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/contact.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\js\jquery-2.1.3.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/jquery-2.1.3.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\js\jquery.easing.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/jquery.easing.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\js\jquery.mixitup.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/jquery.mixitup.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\js\jquery.popup.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/jquery.popup.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\js\modernizr.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/modernizr.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\js\owl.carousel.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/owl.carousel.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\js\script.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/script.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\ng-route\.bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/ng-route/.bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\ng-route\README.md" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/ng-route/README.md" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\ng-route\bower.json" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/ng-route/bower.json" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\ng-route\demo\demo.html" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/ng-route/demo/demo.html" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\ng-route\demo\demo.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/ng-route/demo/demo.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\ng-route\src\ngTour.css" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/ng-route/src/ngTour.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\assets\ng-route\src\ngTour.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/ng-route/src/ngTour.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\index.html" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/index.html" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\js\app.js" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/js/app.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\views\about-me.html" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/views/about-me.html" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\views\contact.html" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/views/contact.html" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\views\home.html" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/views/home.php" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\views\portfolio.html" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/views/portfolio.html" />
+      <change type="MOVED" beforePath="C:\wamp\www\therealcarlos\frontend\views\services.html" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/views/services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/therealcarlos/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/therealcarlos/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="therealcarlos.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -410,11 +784,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/styles.css">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.056384742" vertical-offset="0" max-vertical-offset="603">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.53038675" vertical-offset="341" max-vertical-offset="3655">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/views/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1343">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="850">
+              <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about-me.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/views/about-me.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.153846" vertical-offset="1621" max-vertical-offset="2754">
+              <caret line="117" column="57" selection-start-line="117" selection-start-column="57" selection-end-line="117" selection-end-column="57" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/views/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-52.827957" vertical-offset="765" max-vertical-offset="7038">
+              <caret line="334" column="76" selection-start-line="334" selection-start-column="76" selection-end-line="334" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/views/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.935484" vertical-offset="2652" max-vertical-offset="3961">
+              <caret line="183" column="61" selection-start-line="183" selection-start-column="61" selection-end-line="183" selection-end-column="61" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="757" max-vertical-offset="3485">
+              <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -428,7 +882,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/therealcarlos.sql" />
         <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/styles.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/style.css" />
+        <option value="$PROJECT_DIR$/frontend/js/app.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/views/home.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/views/home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/js/app.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/views/about-me.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/views/portfolio.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/views/services.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/script.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/therealcarlos/index.php" />
       </list>
     </option>
   </component>
@@ -537,6 +1002,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="therealcarlos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="therealcarlos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="therealcarlos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="therealcarlos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="therealcarlos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="therealcarlos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -545,7 +1062,32 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\therealcarlos\wp-content\themes\therealcarlos" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -562,9 +1104,10 @@
     <frame x="-9" y="-9" width="1384" height="786" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -575,7 +1118,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -604,10 +1146,100 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/styles.css">
+    <entry file="file://$PROJECT_DIR$/therealcarlos.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.056384742" vertical-offset="0" max-vertical-offset="603">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state vertical-scroll-proportion="1.0465117" vertical-offset="201" max-vertical-offset="59874">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfifteen/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25373134" vertical-offset="0" max-vertical-offset="102340">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17677642" vertical-offset="0" max-vertical-offset="3502">
+          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="197" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="850">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/views/about-me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.153846" vertical-offset="1621" max-vertical-offset="2754">
+          <caret line="117" column="57" selection-start-line="117" selection-start-column="57" selection-end-line="117" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/views/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-52.827957" vertical-offset="765" max-vertical-offset="7038">
+          <caret line="334" column="76" selection-start-line="334" selection-start-column="76" selection-end-line="334" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/views/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.935484" vertical-offset="2652" max-vertical-offset="3961">
+          <caret line="183" column="61" selection-start-line="183" selection-start-column="61" selection-end-line="183" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="757" max-vertical-offset="3485">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/therealcarlos/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53038675" vertical-offset="341" max-vertical-offset="3655">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
           <folding />
         </state>
       </provider>
